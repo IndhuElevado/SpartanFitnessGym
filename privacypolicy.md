@@ -1,9 +1,9 @@
 Privacy Policy Introduction
-Our privacy policy will help you to understand what information we collect at Spartan Fitness Gym, how Spartan Fitness Gym uses it, and what choices you have. Elevado Softwares built the Spartan Fitness Gym as a free app. This SERVICE is provided by Spartan Fitness Gym at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Our privacy policy will help you to understand what information we collect at Spartan Gym, how Spartan Gym uses it, and what choices you have. Elevado Softwares built the Spartan Gym as a free app. This SERVICE is provided by Spartan Gym at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, pictures. The information that we request will be retained by us and used as described in this privacy policy.
 The app does use third party services that may collect information used to identify you.
 
 Cookies
